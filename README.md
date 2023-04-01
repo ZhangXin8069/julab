@@ -1,7 +1,6 @@
 # zju
 **zhangxin's&nbsp;jupyter settings**
 **************
-**************
 ## change sources
 refer to [this](https://github.com/ZhangXin8069/Install-OpenMC-in-Windows-wsl2-and-change-sources-for-Chinese-users)
 
