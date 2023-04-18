@@ -32,7 +32,7 @@ pip install jupyterlab-system-monitor
 ```
 refer to [this](https://cloud.tencent.com/developer/article/1971947)
 ```
-pip install magic-markown
+pip install magic-markdown
 pip install ipython-sql
 pip install jupyter_spaces
 pip install blackcellmagic
