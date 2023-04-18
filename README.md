@@ -31,6 +31,32 @@ pip install plotly==5.14.0
 pip install jupyterlab-system-monitor 
 ```
 refer to [this](https://cloud.tencent.com/developer/article/1971947)
+```
+pip install magic-markown
+pip install ipython-sql
+pip install jupyter_spaces
+pip install blackcellmagic
+pip install watermark
+pip install py-heat-magic
+```
+```
+%load_ext magic_markdown
+%load_ext sql
+%load_ext jupyter_spaces
+%load_ext blackcellmagic
+%load_ext watermark
+%load_ext heat
+```
+```
+%%mmd
+%sql
+%%space <test>
+%remove_space <test>
+%%black
+%watermark
+%%heat
+```
+refer to [this](https://blog.csdn.net/weixin_40787712/article/details/119306237)
 ## install cling(c++ jupyter)
 ```
 wget https://root.cern.ch/download/cling/cling_***.tar.bz2
