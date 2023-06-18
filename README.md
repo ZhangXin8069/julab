@@ -1,4 +1,4 @@
-# zju
+# julab
 **zhangxin's&nbsp;jupyter settings**
 **************
 ## change sources
